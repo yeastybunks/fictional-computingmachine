@@ -33,3 +33,4 @@ Cloud Parallel Processing DNS Routing Event Sourcing Artificial Intelligence Mon
 Stay hungry, stay foolish. Opportunities don't happen. You create them. Work hard in silence, let your success be your noise. Event Sourcing Cache Invalidation Data Pipeline DNS Routing API Gateway
 Great things never come from comfort zones. DNS Routing WebSockets A/B Testing Event Sourcing Difficult roads often lead to beautiful destinations. NLP Performance Edge Computing
 Load Balancing Serverless Neural Networks UX Optimization Zero Downtime Deployment Success is not in what you have, but who you are. Containerization Happiness is not something ready made. It comes from your own actions. To be the best, you must be able to handle the worst. Database Indexing GraphQL Cache Invalidation Parallel Processing Machine Learning Database
+Virtual Machines Kubernetes Backend Edge Computing DNS Routing Content Delivery Network Server Response Frontend Kafka Dream big and dare to fail.
