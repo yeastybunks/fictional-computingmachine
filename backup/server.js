@@ -22,3 +22,4 @@ IoT Logging API Gateway Blockchain To be the best, you must be able to handle th
 API Content Delivery Network Load Balancing JWT Cloud Functions Agile Load Testing Multi-threading Backend JavaScript Code Review
 DNS Routing Serverless Frontend OAuth Predictive Analytics Stay hungry, stay foolish. Database Indexing
 Great things never come from comfort zones. Database Containerization Optimization Monitoring To be the best, you must be able to handle the worst. Container Orchestration Artificial Intelligence React
+Machine Learning Agile Kafka Quantum Computing Parallel Processing Cloud
