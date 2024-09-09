@@ -34,3 +34,4 @@ Python NLP RabbitMQ Event-driven Architecture Containerization Success doesn’t j
 Event Sourcing Code Review Stay hungry, stay foolish. Act as if what you do makes a difference. It does. Version Control Optimization Testing Success is how high you bounce when you hit bottom. DevOps Data Science Firewalls A/B Testing
 Load Balancing Algorithm Content Delivery Network Dream big and dare to fail. Version Control
 Message Queue Sharding Data Science Containerization DevOps Big Data Kafka Load Testing Automation Serverless Logging Latency Optimization
+Blockchain Cache Invalidation React Database Indexing Latency Optimization Cloud Difficult roads often lead to beautiful destinations. Load Balancing Predictive Analytics If you can dream it, you can do it. Edge Computing Big Data

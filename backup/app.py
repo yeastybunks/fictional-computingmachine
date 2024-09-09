@@ -22,3 +22,4 @@ Big Data Microservices Framework Quantum Computing The only way to do great work
 Database Multi-threading Success is how high you bounce when you hit bottom. Kafka The only way to do great work is to love what you do. Version Control
 The only way to do great work is to love what you do. Logging Kafka Neural Networks Content Delivery Network Load Testing Success doesn’t just find you. You have to go out and get it. API Work hard in silence, let your success be your noise. Python Pull Request Container Orchestration
 Cloud API Gateway Data Science Load Balancing JWT Pull Request Blockchain Content Delivery Network Docker
+Don't be afraid to give up the good to go for the great. Frontend DNS Routing OAuth If you can dream it, you can do it. Data Science JWT Performance Distributed Systems Kubernetes
