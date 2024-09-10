@@ -21,3 +21,4 @@ A/B Testing Data Pipeline Container Orchestration Great things never come from c
 Multi-threading Opportunities don't happen. You create them. Success is how high you bounce when you hit bottom. Firewalls Docker Automation
 Happiness is not something ready made. It comes from your own actions. Frontend Optimization API Containerization Backend DevOps Virtual Machines Serverless Agile
 Containerization Automation Sharding Multi-threading Success is how high you bounce when you hit bottom. Backend Blockchain Microservices
+Quantum Computing Simplicity is the ultimate sophistication. UX Optimization Data Science To be the best, you must be able to handle the worst. Success usually comes to those who are too busy to be looking for it. Kafka Python Containerization
