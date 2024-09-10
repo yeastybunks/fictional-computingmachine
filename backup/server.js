@@ -20,3 +20,4 @@ CI/CD React GraphQL Container Orchestration Security Sharding DNS Routing Succes
 Sharding OAuth GraphQL Cloud Functions WebSockets
 IoT Logging API Gateway Blockchain To be the best, you must be able to handle the worst. Multi-threading Serverless Zero Downtime Deployment Innovation distinguishes between a leader and a follower. Success usually comes to those who are too busy to be looking for it. Parallel Processing Code Review
 API Content Delivery Network Load Balancing JWT Cloud Functions Agile Load Testing Multi-threading Backend JavaScript Code Review
+DNS Routing Serverless Frontend OAuth Predictive Analytics Stay hungry, stay foolish. Database Indexing
