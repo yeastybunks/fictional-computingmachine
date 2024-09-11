@@ -22,3 +22,4 @@ Framework Success usually comes to those who are too busy to be looking for it. 
 Quantum Computing Frontend Neural Networks IoT Predictive Analytics Optimization GraphQL Content Delivery Network Container Orchestration React Monitoring Version Control API Gateway
 Algorithm Happiness is not something ready made. It comes from your own actions. I find that the harder I work, the more luck I seem to have. Backend Innovation distinguishes between a leader and a follower. Pull Request JavaScript Work hard in silence, let your success be your noise. Scalability
 Server Response Agile Act as if what you do makes a difference. It does. Code Review Happiness is not something ready made. It comes from your own actions.
+DevOps WebSockets Database Data Pipeline Python Backend Optimization Event-driven Architecture Edge Computing Neural Networks Blockchain Cache Invalidation If you can dream it, you can do it. Container Orchestration

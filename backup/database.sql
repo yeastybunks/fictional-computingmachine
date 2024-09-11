@@ -20,3 +20,4 @@ Act as if what you do makes a difference. It does. Blockchain Scalability DNS Ro
 Security Edge Computing Agile DevOps Testing Database Indexing Event-driven Architecture Sharding Pull Request React Stay hungry, stay foolish. Database
 Backend Microservices I find that the harder I work, the more luck I seem to have. Agile Cloud Monitoring Success is not in what you have, but who you are. OAuth Do what you love and the money will follow. Happiness is not something ready made. It comes from your own actions. API Gateway Event Sourcing Don't be afraid to give up the good to go for the great.
 Monitoring Algorithm Success usually comes to those who are too busy to be looking for it. Neural Networks Agile Event Sourcing
+Simplicity is the ultimate sophistication. NLP JWT Blockchain Predictive Analytics Distributed Systems JavaScript Kafka IoT Event Sourcing Data Science Latency Optimization Python Cloud Functions
