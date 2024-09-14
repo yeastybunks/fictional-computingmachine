@@ -16,3 +16,4 @@ Version Control Message Queue Happiness is not something ready made. It comes fr
 Load Testing Database Virtual Machines Dream big and dare to fail. Sharding Neural Networks Difficult roads often lead to beautiful destinations. Replica Set Artificial Intelligence Quantum Computing Message Queue JavaScript Algorithm Security
 React Database Indexing Parallel Processing Deployment Logging Pull Request Sharding Big Data GraphQL Machine Learning
 RabbitMQ Performance Python Virtual Machines Sharding Kafka Quantum Computing Opportunities don't happen. You create them. Kubernetes
+Agile Security Code Review Backend Lambda Functions Happiness is not something ready made. It comes from your own actions.
