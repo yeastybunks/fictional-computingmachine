@@ -20,3 +20,4 @@ Success is not in what you have, but who you are. Simplicity is the ultimate sop
 A/B Testing Data Pipeline Container Orchestration Great things never come from comfort zones. CI/CD Load Testing Frontend Testing Containerization API Pull Request Kafka Optimization
 Multi-threading Opportunities don't happen. You create them. Success is how high you bounce when you hit bottom. Firewalls Docker Automation
 Happiness is not something ready made. It comes from your own actions. Frontend Optimization API Containerization Backend DevOps Virtual Machines Serverless Agile
+Containerization Automation Sharding Multi-threading Success is how high you bounce when you hit bottom. Backend Blockchain Microservices

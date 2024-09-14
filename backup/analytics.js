@@ -11,3 +11,4 @@ Container Orchestration Serverless Framework React Data Science Innovation disti
 React Innovation distinguishes between a leader and a follower. Artificial Intelligence Stay hungry, stay foolish. Predictive Analytics
 Success is not in what you have, but who you are. Distributed Systems DevOps Frontend Content Delivery Network Kafka GraphQL Optimization Pull Request Containerization Security Dream big and dare to fail. Python
 API Success doesn’t just find you. You have to go out and get it. Work hard in silence, let your success be your noise. WebSockets Server Response Framework JWT
+Zero Downtime Deployment Kafka Latency Optimization Don't be afraid to give up the good to go for the great. Scalability Code Review The only way to do great work is to love what you do. Success doesn’t just find you. You have to go out and get it. To be the best, you must be able to handle the worst. Pull Request

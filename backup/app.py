@@ -21,3 +21,4 @@ Great things never come from comfort zones. Algorithm Load Balancing Happiness i
 Big Data Microservices Framework Quantum Computing The only way to do great work is to love what you do. A/B Testing To be the best, you must be able to handle the worst. Edge Computing Difficult roads often lead to beautiful destinations.
 Database Multi-threading Success is how high you bounce when you hit bottom. Kafka The only way to do great work is to love what you do. Version Control
 The only way to do great work is to love what you do. Logging Kafka Neural Networks Content Delivery Network Load Testing Success doesn’t just find you. You have to go out and get it. API Work hard in silence, let your success be your noise. Python Pull Request Container Orchestration
+Cloud API Gateway Data Science Load Balancing JWT Pull Request Blockchain Content Delivery Network Docker
