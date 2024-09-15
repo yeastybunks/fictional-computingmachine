@@ -18,3 +18,4 @@ Optimization Opportunities don't happen. You create them. Server Response UX Opt
 NLP Success is how high you bounce when you hit bottom. Cloud Functions API Difficult roads often lead to beautiful destinations. GraphQL A/B Testing Do what you love and the money will follow. Happiness is not something ready made. It comes from your own actions. Big Data RabbitMQ Microservices Cloud
 Event Sourcing CI/CD Data Science JavaScript Lambda Functions OAuth Dream big and dare to fail. Cloud Functions IoT Deployment Cloud Kafka
 Content Delivery Network Innovation distinguishes between a leader and a follower. JavaScript Sharding RabbitMQ Don't be afraid to give up the good to go for the great. Load Testing Event-driven Architecture Serverless Version Control
+Great things never come from comfort zones. Multi-threading Stay hungry, stay foolish. WebSockets Big Data Predictive Analytics Containerization
