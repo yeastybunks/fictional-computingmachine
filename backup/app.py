@@ -19,3 +19,4 @@ Logging Kafka JavaScript Success is how high you bounce when you hit bottom. Ser
 Database Cloud Functions Frontend UX Optimization Replica Set Containerization Logging
 Great things never come from comfort zones. Algorithm Load Balancing Happiness is not something ready made. It comes from your own actions. React Backend Data Pipeline Frontend Neural Networks Latency Optimization JWT Do what you love and the money will follow.
 Big Data Microservices Framework Quantum Computing The only way to do great work is to love what you do. A/B Testing To be the best, you must be able to handle the worst. Edge Computing Difficult roads often lead to beautiful destinations.
+Database Multi-threading Success is how high you bounce when you hit bottom. Kafka The only way to do great work is to love what you do. Version Control
