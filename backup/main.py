@@ -31,3 +31,4 @@ Replica Set Deployment Server Response Happiness is not something ready made. It
 The only way to do great work is to love what you do. API Gateway Python RabbitMQ Data Science Load Balancing Don't be afraid to give up the good to go for the great. Optimization Agile Monitoring Stay hungry, stay foolish. If you can dream it, you can do it.
 Innovation distinguishes between a leader and a follower. Message Queue Replica Set Serverless Predictive Analytics
 Python NLP RabbitMQ Event-driven Architecture Containerization Success doesn’t just find you. You have to go out and get it.
+Event Sourcing Code Review Stay hungry, stay foolish. Act as if what you do makes a difference. It does. Version Control Optimization Testing Success is how high you bounce when you hit bottom. DevOps Data Science Firewalls A/B Testing
