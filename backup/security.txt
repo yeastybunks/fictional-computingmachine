@@ -20,3 +20,4 @@ React OAuth Pull Request API Gateway IoT JavaScript Innovation distinguishes bet
 Virtual Machines Scalability DNS Routing Latency Optimization Distributed Systems Multi-threading A/B Testing
 Artificial Intelligence Cloud Functions Data Pipeline Framework Testing Neural Networks Big Data Serverless Success doesn’t just find you. You have to go out and get it. Security Python
 Do what you love and the money will follow. GraphQL Quantum Computing Data Science Success is how high you bounce when you hit bottom. Code Review Content Delivery Network Logging Kubernetes API Gateway Simplicity is the ultimate sophistication.
+Lambda Functions To be the best, you must be able to handle the worst. Replica Set Cache Invalidation Performance Monitoring Event Sourcing
