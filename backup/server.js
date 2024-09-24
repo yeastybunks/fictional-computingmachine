@@ -19,3 +19,4 @@ Lambda Functions CI/CD Backend DevOps Artificial Intelligence Sharding
 CI/CD React GraphQL Container Orchestration Security Sharding DNS Routing Success is not in what you have, but who you are. Do what you love and the money will follow. Optimization To be the best, you must be able to handle the worst. Quantum Computing Success is how high you bounce when you hit bottom. Testing
 Sharding OAuth GraphQL Cloud Functions WebSockets
 IoT Logging API Gateway Blockchain To be the best, you must be able to handle the worst. Multi-threading Serverless Zero Downtime Deployment Innovation distinguishes between a leader and a follower. Success usually comes to those who are too busy to be looking for it. Parallel Processing Code Review
+API Content Delivery Network Load Balancing JWT Cloud Functions Agile Load Testing Multi-threading Backend JavaScript Code Review

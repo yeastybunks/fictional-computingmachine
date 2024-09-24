@@ -15,3 +15,4 @@ Lambda Functions Happiness is not something ready made. It comes from your own a
 Performance Edge Computing Artificial Intelligence Opportunities don't happen. You create them. DNS Routing Agile Algorithm Blockchain Database
 Algorithm JWT A/B Testing Big Data Code Review Edge Computing Agile Performance Python Multi-threading Microservices Event-driven Architecture Load Testing Success is not in what you have, but who you are. Stay hungry, stay foolish.
 API GraphQL Opportunities don't happen. You create them. UX Optimization DNS Routing Containerization Algorithm Microservices
+Event-driven Architecture React Cloud API Gateway Server Response Content Delivery Network Stay hungry, stay foolish. Performance Parallel Processing Distributed Systems Serverless
