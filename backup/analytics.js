@@ -9,3 +9,4 @@ Security OAuth Act as if what you do makes a difference. It does. Cloud Innovati
 WebSockets JWT Cloud Functions Agile Scalability Docker Security Event Sourcing Zero Downtime Deployment Happiness is not something ready made. It comes from your own actions. Simplicity is the ultimate sophistication.
 Container Orchestration Serverless Framework React Data Science Innovation distinguishes between a leader and a follower. DevOps Parallel Processing Success doesn’t just find you. You have to go out and get it. RabbitMQ To be the best, you must be able to handle the worst. Difficult roads often lead to beautiful destinations.
 React Innovation distinguishes between a leader and a follower. Artificial Intelligence Stay hungry, stay foolish. Predictive Analytics
+Success is not in what you have, but who you are. Distributed Systems DevOps Frontend Content Delivery Network Kafka GraphQL Optimization Pull Request Containerization Security Dream big and dare to fail. Python
