@@ -19,3 +19,4 @@ A/B Testing UX Optimization Act as if what you do makes a difference. It does. W
 Replica Set Happiness is not something ready made. It comes from your own actions. Backend IoT Performance Success doesn’t just find you. You have to go out and get it. UX Optimization Stay hungry, stay foolish.
 Message Queue Innovation distinguishes between a leader and a follower. Security Parallel Processing Do what you love and the money will follow. Replica Set Agile JavaScript If you can dream it, you can do it. API Gateway Quantum Computing Don't be afraid to give up the good to go for the great.
 Version Control Neural Networks Difficult roads often lead to beautiful destinations. NLP Success doesn’t just find you. You have to go out and get it.
+Code Review Latency Optimization Zero Downtime Deployment Event-driven Architecture Success usually comes to those who are too busy to be looking for it. Framework Machine Learning Distributed Systems
