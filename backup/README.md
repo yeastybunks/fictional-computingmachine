@@ -14,3 +14,4 @@ Event Sourcing Big Data Success is how high you bounce when you hit bottom. Shar
 React Logging Message Queue Frontend Latency Optimization Firewalls Success usually comes to those who are too busy to be looking for it. Multi-threading RabbitMQ Server Response Cloud
 Blockchain Database Indexing Serverless Do what you love and the money will follow. DNS Routing Predictive Analytics JavaScript Difficult roads often lead to beautiful destinations. A/B Testing Stay hungry, stay foolish.
 Firewalls Big Data React Zero Downtime Deployment Load Testing Database Indexing Edge Computing Act as if what you do makes a difference. It does. Innovation distinguishes between a leader and a follower. Success is how high you bounce when you hit bottom. Database Pull Request The only way to do great work is to love what you do.
+Kafka Scalability Security Success doesn’t just find you. You have to go out and get it. Algorithm Python Lambda Functions Container Orchestration
