@@ -17,3 +17,4 @@ Kafka Security DevOps Artificial Intelligence Success is how high you bounce whe
 Database Indexing Virtual Machines Success usually comes to those who are too busy to be looking for it. Happiness is not something ready made. It comes from your own actions. Edge Computing Event Sourcing Data Pipeline If you can dream it, you can do it. Load Testing
 Logging Kafka JavaScript Success is how high you bounce when you hit bottom. Serverless Python Virtual Machines Simplicity is the ultimate sophistication.
 Database Cloud Functions Frontend UX Optimization Replica Set Containerization Logging
+Great things never come from comfort zones. Algorithm Load Balancing Happiness is not something ready made. It comes from your own actions. React Backend Data Pipeline Frontend Neural Networks Latency Optimization JWT Do what you love and the money will follow.
