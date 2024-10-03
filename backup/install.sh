@@ -12,3 +12,4 @@ Simplicity is the ultimate sophistication. If you can dream it, you can do it. M
 Container Orchestration To be the best, you must be able to handle the worst. Containerization JavaScript Sharding DNS Routing Multi-threading
 Server Response Machine Learning DevOps Framework Data Science Act as if what you do makes a difference. It does. Replica Set Event Sourcing Edge Computing NLP
 Lambda Functions Happiness is not something ready made. It comes from your own actions. Artificial Intelligence API Big Data
+Performance Edge Computing Artificial Intelligence Opportunities don't happen. You create them. DNS Routing Agile Algorithm Blockchain Database

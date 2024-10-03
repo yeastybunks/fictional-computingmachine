@@ -8,3 +8,4 @@ Great things never come from comfort zones. Scalability Performance Monitoring B
 Algorithm Security Performance DNS Routing Innovation distinguishes between a leader and a follower. Content Delivery Network Database DevOps
 Agile Logging Database Indexing Message Queue The only way to do great work is to love what you do. Frontend Distributed Systems Database API Gateway Success is how high you bounce when you hit bottom. Scalability Quantum Computing RabbitMQ Code Review
 JWT Edge Computing I find that the harder I work, the more luck I seem to have. IoT GraphQL Content Delivery Network WebSockets Serverless Microservices Container Orchestration Success usually comes to those who are too busy to be looking for it. Data Pipeline Great things never come from comfort zones. RabbitMQ Cloud Functions
+Agile Container Orchestration Distributed Systems Version Control Data Science
