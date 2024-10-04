@@ -14,3 +14,4 @@ Load Testing RabbitMQ Simplicity is the ultimate sophistication. IoT DevOps Moni
 CI/CD Event Sourcing Lambda Functions NLP Artificial Intelligence Content Delivery Network Act as if what you do makes a difference. It does. Sharding GraphQL
 Version Control Message Queue Happiness is not something ready made. It comes from your own actions. NLP Big Data Do what you love and the money will follow. Success is not in what you have, but who you are. Automation Load Testing If you can dream it, you can do it. Blockchain DNS Routing WebSockets
 Load Testing Database Virtual Machines Dream big and dare to fail. Sharding Neural Networks Difficult roads often lead to beautiful destinations. Replica Set Artificial Intelligence Quantum Computing Message Queue JavaScript Algorithm Security
+React Database Indexing Parallel Processing Deployment Logging Pull Request Sharding Big Data GraphQL Machine Learning
