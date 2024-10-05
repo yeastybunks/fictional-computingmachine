@@ -16,3 +16,4 @@ Code Review OAuth Success doesn’t just find you. You have to go out and get it. 
 Kafka Security DevOps Artificial Intelligence Success is how high you bounce when you hit bottom. Latency Optimization Message Queue Zero Downtime Deployment CI/CD
 Database Indexing Virtual Machines Success usually comes to those who are too busy to be looking for it. Happiness is not something ready made. It comes from your own actions. Edge Computing Event Sourcing Data Pipeline If you can dream it, you can do it. Load Testing
 Logging Kafka JavaScript Success is how high you bounce when you hit bottom. Serverless Python Virtual Machines Simplicity is the ultimate sophistication.
+Database Cloud Functions Frontend UX Optimization Replica Set Containerization Logging
