@@ -18,3 +18,4 @@ Database Indexing WebSockets Zero Downtime Deployment Python Testing Load Balanc
 IoT Load Balancing JWT Do what you love and the money will follow. Distributed Systems WebSockets Scalability Content Delivery Network To be the best, you must be able to handle the worst. Stay hungry, stay foolish. Cloud Performance Load Testing
 React OAuth Pull Request API Gateway IoT JavaScript Innovation distinguishes between a leader and a follower. Quantum Computing Opportunities don't happen. You create them.
 Virtual Machines Scalability DNS Routing Latency Optimization Distributed Systems Multi-threading A/B Testing
+Artificial Intelligence Cloud Functions Data Pipeline Framework Testing Neural Networks Big Data Serverless Success doesn’t just find you. You have to go out and get it. Security Python
