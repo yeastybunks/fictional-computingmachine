@@ -15,3 +15,4 @@ Security Neural Networks Python Data Science Lambda Functions JavaScript Version
 Database React Act as if what you do makes a difference. It does. Security Multi-threading Backend Difficult roads often lead to beautiful destinations. Server Response
 UX Optimization GraphQL Scalability Stay hungry, stay foolish. React OAuth Machine Learning Load Testing Containerization Message Queue
 Security Backend Agile Event Sourcing Deployment Great things never come from comfort zones. Multi-threading If you can dream it, you can do it. Difficult roads often lead to beautiful destinations. Act as if what you do makes a difference. It does. A/B Testing Data Pipeline Server Response Big Data Kafka
+UX Optimization Happiness is not something ready made. It comes from your own actions. Success doesn’t just find you. You have to go out and get it. Stay hungry, stay foolish. Optimization
