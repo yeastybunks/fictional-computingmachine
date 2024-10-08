@@ -14,3 +14,4 @@ Load Testing Success usually comes to those who are too busy to be looking for i
 Security Neural Networks Python Data Science Lambda Functions JavaScript Version Control Event Sourcing API Gateway Performance Frontend Edge Computing Logging Do what you love and the money will follow. To be the best, you must be able to handle the worst.
 Database React Act as if what you do makes a difference. It does. Security Multi-threading Backend Difficult roads often lead to beautiful destinations. Server Response
 UX Optimization GraphQL Scalability Stay hungry, stay foolish. React OAuth Machine Learning Load Testing Containerization Message Queue
+Security Backend Agile Event Sourcing Deployment Great things never come from comfort zones. Multi-threading If you can dream it, you can do it. Difficult roads often lead to beautiful destinations. Act as if what you do makes a difference. It does. A/B Testing Data Pipeline Server Response Big Data Kafka

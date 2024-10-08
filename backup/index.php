@@ -16,3 +16,4 @@ Load Testing JavaScript IoT Success is not in what you have, but who you are. Ba
 Performance Database Distributed Systems Event-driven Architecture Testing Replica Set Lambda Functions API Gateway Serverless Algorithm Difficult roads often lead to beautiful destinations.
 Stay hungry, stay foolish. Message Queue Database Load Testing Success is how high you bounce when you hit bottom.
 DevOps Data Pipeline Event-driven Architecture Monitoring To be the best, you must be able to handle the worst. Stay hungry, stay foolish. Multi-threading Cloud Functions Docker Machine Learning Message Queue UX Optimization RabbitMQ CI/CD Load Balancing
+Do what you love and the money will follow. Event-driven Architecture Load Balancing Monitoring Data Pipeline Difficult roads often lead to beautiful destinations. Microservices Replica Set Success usually comes to those who are too busy to be looking for it. Backend
