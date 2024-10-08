@@ -25,3 +25,4 @@ Distributed Systems JavaScript Dream big and dare to fail. Success usually comes
 Logging Great things never come from comfort zones. Data Pipeline Scalability Event Sourcing Quantum Computing IoT Machine Learning
 Stay hungry, stay foolish. Version Control Cloud Functions Microservices Frontend Agile Algorithm Big Data Serverless Success is not in what you have, but who you are. Success is how high you bounce when you hit bottom.
 Multi-threading Innovation distinguishes between a leader and a follower. Success is not in what you have, but who you are. Deployment JWT Logging WebSockets Load Testing Performance Dream big and dare to fail. Kubernetes Containerization Happiness is not something ready made. It comes from your own actions. Message Queue
+Kafka Scalability Content Delivery Network Great things never come from comfort zones. Success usually comes to those who are too busy to be looking for it.
