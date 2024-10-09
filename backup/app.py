@@ -14,3 +14,4 @@ Don't be afraid to give up the good to go for the great. Parallel Processing Mes
 I find that the harder I work, the more luck I seem to have. Algorithm Cache Invalidation A/B Testing Logging Code Review Data Pipeline Parallel Processing Event Sourcing Lambda Functions Neural Networks Agile API Gateway Serverless
 Code Review OAuth Success doesn’t just find you. You have to go out and get it. GraphQL Security
 Kafka Security DevOps Artificial Intelligence Success is how high you bounce when you hit bottom. Latency Optimization Message Queue Zero Downtime Deployment CI/CD
+Database Indexing Virtual Machines Success usually comes to those who are too busy to be looking for it. Happiness is not something ready made. It comes from your own actions. Edge Computing Event Sourcing Data Pipeline If you can dream it, you can do it. Load Testing
