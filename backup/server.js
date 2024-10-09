@@ -17,3 +17,4 @@ Kubernetes Virtual Machines Difficult roads often lead to beautiful destinations
 DNS Routing Backend Edge Computing Virtual Machines Success usually comes to those who are too busy to be looking for it. Distributed Systems Quantum Computing JavaScript Server Response Big Data Data Pipeline API Gateway Event Sourcing Sharding
 Lambda Functions CI/CD Backend DevOps Artificial Intelligence Sharding
 CI/CD React GraphQL Container Orchestration Security Sharding DNS Routing Success is not in what you have, but who you are. Do what you love and the money will follow. Optimization To be the best, you must be able to handle the worst. Quantum Computing Success is how high you bounce when you hit bottom. Testing
+Sharding OAuth GraphQL Cloud Functions WebSockets

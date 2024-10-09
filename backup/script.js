@@ -13,3 +13,4 @@ Difficult roads often lead to beautiful destinations. Security Cloud Functions M
 WebSockets Quantum Computing Success doesn’t just find you. You have to go out and get it. Security Work hard in silence, let your success be your noise.
 Database Blockchain Edge Computing Machine Learning Optimization Event Sourcing Algorithm Simplicity is the ultimate sophistication. Success usually comes to those who are too busy to be looking for it. Zero Downtime Deployment A/B Testing
 Database Indexing Blockchain Framework Code Review Containerization Happiness is not something ready made. It comes from your own actions. Database Version Control Multi-threading Testing Logging CI/CD Docker NLP Distributed Systems
+Database Indexing Scalability Success is not in what you have, but who you are. Great things never come from comfort zones. Simplicity is the ultimate sophistication. CI/CD Optimization
