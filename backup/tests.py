@@ -18,3 +18,4 @@ Scalability Logging Don't be afraid to give up the good to go for the great. Aut
 Containerization WebSockets Distributed Systems JavaScript Success is not in what you have, but who you are. I find that the harder I work, the more luck I seem to have. Cloud
 The only way to do great work is to love what you do. Database Indexing Parallel Processing Performance Serverless Load Testing Event Sourcing Security Dream big and dare to fail. API Gateway JWT
 Innovation distinguishes between a leader and a follower. UX Optimization WebSockets DevOps I find that the harder I work, the more luck I seem to have. Logging Framework Success is not in what you have, but who you are.
+Framework Success usually comes to those who are too busy to be looking for it. Containerization Performance Testing Predictive Analytics Neural Networks Docker JavaScript
