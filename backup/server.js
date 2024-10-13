@@ -15,3 +15,4 @@ Virtual Machines UX Optimization Data Science Docker Event-driven Architecture P
 Content Delivery Network Don't be afraid to give up the good to go for the great. Difficult roads often lead to beautiful destinations. Dream big and dare to fail. WebSockets Act as if what you do makes a difference. It does. Database Indexing NLP Replica Set
 Kubernetes Virtual Machines Difficult roads often lead to beautiful destinations. Database Indexing Predictive Analytics Optimization Monitoring Event-driven Architecture Multi-threading Machine Learning Artificial Intelligence UX Optimization Success is how high you bounce when you hit bottom.
 DNS Routing Backend Edge Computing Virtual Machines Success usually comes to those who are too busy to be looking for it. Distributed Systems Quantum Computing JavaScript Server Response Big Data Data Pipeline API Gateway Event Sourcing Sharding
+Lambda Functions CI/CD Backend DevOps Artificial Intelligence Sharding
