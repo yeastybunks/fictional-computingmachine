@@ -16,3 +16,4 @@ Logging OAuth DNS Routing Data Science Scalability Database Indexing Neural Netw
 Innovation distinguishes between a leader and a follower. Stay hungry, stay foolish. Kubernetes Container Orchestration Serverless Cache Invalidation Edge Computing Algorithm Security Code Review Logging Opportunities don't happen. You create them. The only way to do great work is to love what you do. To be the best, you must be able to handle the worst.
 Success doesn’t just find you. You have to go out and get it. Artificial Intelligence Quantum Computing Deployment Framework Performance Microservices
 Do what you love and the money will follow. Docker A/B Testing Container Orchestration Data Pipeline JavaScript Cloud Functions
+Testing Parallel Processing Big Data Deployment Don't be afraid to give up the good to go for the great. Content Delivery Network If you can dream it, you can do it. Database Indexing

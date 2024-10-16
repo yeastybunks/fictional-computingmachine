@@ -10,3 +10,4 @@ Happiness is not something ready made. It comes from your own actions. Act as if
 If you can dream it, you can do it. Stay hungry, stay foolish. API Virtual Machines Frontend Optimization Zero Downtime Deployment API Gateway Simplicity is the ultimate sophistication. A/B Testing
 Lambda Functions Security GraphQL OAuth Event Sourcing Data Science API Deployment Neural Networks
 Dream big and dare to fail. Replica Set Zero Downtime Deployment Testing Kafka Big Data Serverless Blockchain DNS Routing JavaScript Scalability Message Queue Don't be afraid to give up the good to go for the great. Parallel Processing
+Event Sourcing Big Data Success is how high you bounce when you hit bottom. Sharding Success usually comes to those who are too busy to be looking for it. DevOps Stay hungry, stay foolish. Artificial Intelligence Security
