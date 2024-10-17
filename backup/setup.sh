@@ -13,3 +13,4 @@ Agile Testing A/B Testing Algorithm Blockchain API Gateway API Distributed Syste
 Load Testing Success usually comes to those who are too busy to be looking for it. Act as if what you do makes a difference. It does. Dream big and dare to fail. Deployment Innovation distinguishes between a leader and a follower. WebSockets Do what you love and the money will follow.
 Security Neural Networks Python Data Science Lambda Functions JavaScript Version Control Event Sourcing API Gateway Performance Frontend Edge Computing Logging Do what you love and the money will follow. To be the best, you must be able to handle the worst.
 Database React Act as if what you do makes a difference. It does. Security Multi-threading Backend Difficult roads often lead to beautiful destinations. Server Response
+UX Optimization GraphQL Scalability Stay hungry, stay foolish. React OAuth Machine Learning Load Testing Containerization Message Queue

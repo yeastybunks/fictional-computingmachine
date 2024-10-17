@@ -12,3 +12,4 @@ Database Indexing Code Review Version Control Containerization Lambda Functions 
 Docker Containerization Predictive Analytics Success is how high you bounce when you hit bottom. IoT Lambda Functions RabbitMQ Pull Request Algorithm
 Don't be afraid to give up the good to go for the great. Parallel Processing Message Queue Opportunities don't happen. You create them. Data Pipeline
 I find that the harder I work, the more luck I seem to have. Algorithm Cache Invalidation A/B Testing Logging Code Review Data Pipeline Parallel Processing Event Sourcing Lambda Functions Neural Networks Agile API Gateway Serverless
+Code Review OAuth Success doesn’t just find you. You have to go out and get it. GraphQL Security
