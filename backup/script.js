@@ -11,3 +11,4 @@ Content Delivery Network Automation DevOps Cloud Functions Success is not in wha
 Blockchain Kafka Database Indexing Opportunities don't happen. You create them. Replica Set Event-driven Architecture Cache Invalidation API Agile Difficult roads often lead to beautiful destinations. The only way to do great work is to love what you do. Act as if what you do makes a difference. It does. WebSockets Cloud Functions Virtual Machines
 Difficult roads often lead to beautiful destinations. Security Cloud Functions Monitoring Container Orchestration Message Queue
 WebSockets Quantum Computing Success doesn’t just find you. You have to go out and get it. Security Work hard in silence, let your success be your noise.
+Database Blockchain Edge Computing Machine Learning Optimization Event Sourcing Algorithm Simplicity is the ultimate sophistication. Success usually comes to those who are too busy to be looking for it. Zero Downtime Deployment A/B Testing
