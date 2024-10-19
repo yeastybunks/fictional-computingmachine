@@ -23,3 +23,4 @@ Python Frontend UX Optimization Deployment Cache Invalidation The only way to do
 To be the best, you must be able to handle the worst. Firewalls JWT Code Review Containerization Machine Learning Stay hungry, stay foolish.
 Distributed Systems JavaScript Dream big and dare to fail. Success usually comes to those who are too busy to be looking for it. API
 Logging Great things never come from comfort zones. Data Pipeline Scalability Event Sourcing Quantum Computing IoT Machine Learning
+Stay hungry, stay foolish. Version Control Cloud Functions Microservices Frontend Agile Algorithm Big Data Serverless Success is not in what you have, but who you are. Success is how high you bounce when you hit bottom.
