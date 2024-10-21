@@ -26,3 +26,4 @@ Pull Request The only way to do great work is to love what you do. Framework Don
 Database Event Sourcing Containerization A/B Testing JavaScript Server Response UX Optimization Neural Networks Stay hungry, stay foolish. Big Data
 NLP Success usually comes to those who are too busy to be looking for it. Opportunities don't happen. You create them. Latency Optimization Deployment Happiness is not something ready made. It comes from your own actions. Parallel Processing GraphQL
 Deployment I find that the harder I work, the more luck I seem to have. Optimization Automation Cache Invalidation
+Performance DNS Routing I find that the harder I work, the more luck I seem to have. Microservices Algorithm Backend Blockchain Security Python Success doesn’t just find you. You have to go out and get it. Event Sourcing Firewalls Cloud Functions Load Balancing Deployment
