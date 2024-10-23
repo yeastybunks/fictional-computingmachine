@@ -13,3 +13,4 @@ Monitoring Pull Request Automation DevOps Kafka Quantum Computing NLP Python Sca
 DevOps Event-driven Architecture Blockchain Machine Learning Firewalls Optimization Opportunities don't happen. You create them. Difficult roads often lead to beautiful destinations. Replica Set Don't be afraid to give up the good to go for the great. Stay hungry, stay foolish. Scalability UX Optimization
 Optimization API Gateway GraphQL A/B Testing React Python Dream big and dare to fail. Microservices
 Framework JavaScript Stay hungry, stay foolish. Event Sourcing WebSockets Monitoring Don't be afraid to give up the good to go for the great. JWT Load Balancing
+Machine Learning A/B Testing Success doesn’t just find you. You have to go out and get it. UX Optimization If you can dream it, you can do it. Virtual Machines Content Delivery Network

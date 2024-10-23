@@ -21,3 +21,4 @@ RabbitMQ Containerization Kubernetes Agile Work hard in silence, let your succes
 Optimization IoT Performance Content Delivery Network Happiness is not something ready made. It comes from your own actions. DevOps Monitoring Predictive Analytics Version Control Edge Computing Machine Learning API JWT
 Python Frontend UX Optimization Deployment Cache Invalidation The only way to do great work is to love what you do. Code Review Database Indexing Optimization Artificial Intelligence Happiness is not something ready made. It comes from your own actions. Serverless
 To be the best, you must be able to handle the worst. Firewalls JWT Code Review Containerization Machine Learning Stay hungry, stay foolish.
+Distributed Systems JavaScript Dream big and dare to fail. Success usually comes to those who are too busy to be looking for it. API
