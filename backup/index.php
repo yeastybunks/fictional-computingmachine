@@ -14,3 +14,4 @@ JWT Replica Set Message Queue Work hard in silence, let your success be your noi
 Data Science Do what you love and the money will follow. Version Control API Gateway DevOps Zero Downtime Deployment Machine Learning Success is not in what you have, but who you are. Docker Database Indexing Load Testing NLP The only way to do great work is to love what you do.
 Load Testing JavaScript IoT Success is not in what you have, but who you are. Backend Container Orchestration Artificial Intelligence Database DevOps Replica Set Pull Request Firewalls
 Performance Database Distributed Systems Event-driven Architecture Testing Replica Set Lambda Functions API Gateway Serverless Algorithm Difficult roads often lead to beautiful destinations.
+Stay hungry, stay foolish. Message Queue Database Load Testing Success is how high you bounce when you hit bottom.
