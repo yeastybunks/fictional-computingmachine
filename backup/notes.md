@@ -25,3 +25,4 @@ Great things never come from comfort zones. Firewalls Version Control Data Pipel
 Pull Request The only way to do great work is to love what you do. Framework Don't be afraid to give up the good to go for the great. Virtual Machines Microservices Happiness is not something ready made. It comes from your own actions. Firewalls
 Database Event Sourcing Containerization A/B Testing JavaScript Server Response UX Optimization Neural Networks Stay hungry, stay foolish. Big Data
 NLP Success usually comes to those who are too busy to be looking for it. Opportunities don't happen. You create them. Latency Optimization Deployment Happiness is not something ready made. It comes from your own actions. Parallel Processing GraphQL
+Deployment I find that the harder I work, the more luck I seem to have. Optimization Automation Cache Invalidation
