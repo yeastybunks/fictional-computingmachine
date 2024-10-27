@@ -7,3 +7,4 @@ Latency Optimization Machine Learning Deployment Multi-threading Artificial Inte
 Message Queue Framework IoT Difficult roads often lead to beautiful destinations. Artificial Intelligence Pull Request Cloud Functions Testing Data Science
 Container Orchestration Big Data NLP Framework A/B Testing OAuth Containerization
 Happiness is not something ready made. It comes from your own actions. Act as if what you do makes a difference. It does. The only way to do great work is to love what you do. UX Optimization WebSockets Do what you love and the money will follow. Work hard in silence, let your success be your noise. Security Event-driven Architecture Deployment
+If you can dream it, you can do it. Stay hungry, stay foolish. API Virtual Machines Frontend Optimization Zero Downtime Deployment API Gateway Simplicity is the ultimate sophistication. A/B Testing
