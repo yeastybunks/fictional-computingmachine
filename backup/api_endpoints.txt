@@ -14,3 +14,4 @@ Database Indexing I find that the harder I work, the more luck I seem to have. C
 Sharding Code Review Testing Latency Optimization RabbitMQ Deployment CI/CD
 Logging OAuth DNS Routing Data Science Scalability Database Indexing Neural Networks
 Innovation distinguishes between a leader and a follower. Stay hungry, stay foolish. Kubernetes Container Orchestration Serverless Cache Invalidation Edge Computing Algorithm Security Code Review Logging Opportunities don't happen. You create them. The only way to do great work is to love what you do. To be the best, you must be able to handle the worst.
+Success doesn’t just find you. You have to go out and get it. Artificial Intelligence Quantum Computing Deployment Framework Performance Microservices
