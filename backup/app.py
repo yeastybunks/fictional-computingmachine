@@ -10,3 +10,4 @@ Neural Networks Success is how high you bounce when you hit bottom. Agile Framew
 Parallel Processing Security Data Pipeline Latency Optimization Predictive Analytics
 Database Indexing Code Review Version Control Containerization Lambda Functions Difficult roads often lead to beautiful destinations. Event Sourcing Automation Success is how high you bounce when you hit bottom. JavaScript Optimization
 Docker Containerization Predictive Analytics Success is how high you bounce when you hit bottom. IoT Lambda Functions RabbitMQ Pull Request Algorithm
+Don't be afraid to give up the good to go for the great. Parallel Processing Message Queue Opportunities don't happen. You create them. Data Pipeline
