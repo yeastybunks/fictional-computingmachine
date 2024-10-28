@@ -9,3 +9,4 @@ Cloud Performance Opportunities don't happen. You create them. Quantum Computing
 Neural Networks Success is how high you bounce when you hit bottom. Agile Framework OAuth Server Response
 Parallel Processing Security Data Pipeline Latency Optimization Predictive Analytics
 Database Indexing Code Review Version Control Containerization Lambda Functions Difficult roads often lead to beautiful destinations. Event Sourcing Automation Success is how high you bounce when you hit bottom. JavaScript Optimization
+Docker Containerization Predictive Analytics Success is how high you bounce when you hit bottom. IoT Lambda Functions RabbitMQ Pull Request Algorithm
