@@ -23,3 +23,4 @@ Success is how high you bounce when you hit bottom. Do what you love and the mon
 WebSockets Message Queue Opportunities don't happen. You create them. If you can dream it, you can do it. OAuth Neural Networks Edge Computing UX Optimization NLP Parallel Processing Machine Learning Big Data
 Great things never come from comfort zones. Firewalls Version Control Data Pipeline Scalability Kubernetes Lambda Functions Replica Set Zero Downtime Deployment Success is how high you bounce when you hit bottom. Stay hungry, stay foolish. Virtual Machines Event-driven Architecture API
 Pull Request The only way to do great work is to love what you do. Framework Don't be afraid to give up the good to go for the great. Virtual Machines Microservices Happiness is not something ready made. It comes from your own actions. Firewalls
+Database Event Sourcing Containerization A/B Testing JavaScript Server Response UX Optimization Neural Networks Stay hungry, stay foolish. Big Data
