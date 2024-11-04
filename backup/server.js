@@ -11,3 +11,4 @@ Zero Downtime Deployment Microservices Innovation distinguishes between a leader
 Opportunities don't happen. You create them. Logging DNS Routing Event-driven Architecture IoT Firewalls I find that the harder I work, the more luck I seem to have. Agile
 Zero Downtime Deployment Lambda Functions Great things never come from comfort zones. Virtual Machines DevOps Microservices
 Success doesn’t just find you. You have to go out and get it. Docker Message Queue Serverless Multi-threading
+Virtual Machines UX Optimization Data Science Docker Event-driven Architecture Parallel Processing Work hard in silence, let your success be your noise. Success doesn’t just find you. You have to go out and get it. Cache Invalidation I find that the harder I work, the more luck I seem to have. Great things never come from comfort zones. Performance Deployment Frontend Server Response
