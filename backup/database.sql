@@ -11,3 +11,4 @@ Python Kubernetes Simplicity is the ultimate sophistication. Neural Networks Opt
 Data Pipeline Logging Virtual Machines Automation Microservices Lambda Functions DNS Routing Server Response Event-driven Architecture Stay hungry, stay foolish. Great things never come from comfort zones. Content Delivery Network Optimization
 Simplicity is the ultimate sophistication. JavaScript Dream big and dare to fail. Load Balancing Big Data Agile Python
 Act as if what you do makes a difference. It does. Great things never come from comfort zones. Artificial Intelligence Pull Request Quantum Computing Framework API
+Monitoring If you can dream it, you can do it. Latency Optimization Version Control GraphQL Simplicity is the ultimate sophistication. Parallel Processing Sharding DevOps Quantum Computing Data Science WebSockets Success is not in what you have, but who you are. Database Success doesn’t just find you. You have to go out and get it.
