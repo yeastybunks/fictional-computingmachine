@@ -5,3 +5,4 @@ Logging Act as if what you do makes a difference. It does. Python Automation Par
 Framework Pull Request GraphQL OAuth Success is how high you bounce when you hit bottom. JavaScript Frontend
 Cloud Blockchain Server Response Machine Learning UX Optimization Happiness is not something ready made. It comes from your own actions. GraphQL OAuth Zero Downtime Deployment
 Great things never come from comfort zones. Scalability Performance Monitoring Blockchain Edge Computing DNS Routing Content Delivery Network Testing Message Queue Multi-threading Event Sourcing Virtual Machines Deployment
+Algorithm Security Performance DNS Routing Innovation distinguishes between a leader and a follower. Content Delivery Network Database DevOps
