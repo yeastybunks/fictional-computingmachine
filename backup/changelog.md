@@ -12,3 +12,4 @@ Cloud Functions DNS Routing Dream big and dare to fail. Opportunities don't happ
 Cloud Backend UX Optimization Happiness is not something ready made. It comes from your own actions. Success doesn’t just find you. You have to go out and get it.
 Load Testing RabbitMQ Simplicity is the ultimate sophistication. IoT DevOps Monitoring Neural Networks
 CI/CD Event Sourcing Lambda Functions NLP Artificial Intelligence Content Delivery Network Act as if what you do makes a difference. It does. Sharding GraphQL
+Version Control Message Queue Happiness is not something ready made. It comes from your own actions. NLP Big Data Do what you love and the money will follow. Success is not in what you have, but who you are. Automation Load Testing If you can dream it, you can do it. Blockchain DNS Routing WebSockets
