@@ -11,3 +11,4 @@ Load Testing Docker Latency Optimization Security Optimization Serverless Code R
 Cloud Functions DNS Routing Dream big and dare to fail. Opportunities don't happen. You create them. Lambda Functions Security Cloud Event-driven Architecture CI/CD Algorithm Scalability Kubernetes GraphQL Pull Request
 Cloud Backend UX Optimization Happiness is not something ready made. It comes from your own actions. Success doesn’t just find you. You have to go out and get it.
 Load Testing RabbitMQ Simplicity is the ultimate sophistication. IoT DevOps Monitoring Neural Networks
+CI/CD Event Sourcing Lambda Functions NLP Artificial Intelligence Content Delivery Network Act as if what you do makes a difference. It does. Sharding GraphQL
