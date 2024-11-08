@@ -10,3 +10,4 @@ Sharding Dream big and dare to fail. Optimization Great things never come from c
 Zero Downtime Deployment Microservices Innovation distinguishes between a leader and a follower. Do what you love and the money will follow. Cloud Functions Automation
 Opportunities don't happen. You create them. Logging DNS Routing Event-driven Architecture IoT Firewalls I find that the harder I work, the more luck I seem to have. Agile
 Zero Downtime Deployment Lambda Functions Great things never come from comfort zones. Virtual Machines DevOps Microservices
+Success doesn’t just find you. You have to go out and get it. Docker Message Queue Serverless Multi-threading
