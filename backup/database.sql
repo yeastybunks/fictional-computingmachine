@@ -10,3 +10,4 @@ Python React API Gateway To be the best, you must be able to handle the worst. D
 Python Kubernetes Simplicity is the ultimate sophistication. Neural Networks Optimization Virtual Machines UX Optimization I find that the harder I work, the more luck I seem to have. Performance Cache Invalidation Replica Set Multi-threading
 Data Pipeline Logging Virtual Machines Automation Microservices Lambda Functions DNS Routing Server Response Event-driven Architecture Stay hungry, stay foolish. Great things never come from comfort zones. Content Delivery Network Optimization
 Simplicity is the ultimate sophistication. JavaScript Dream big and dare to fail. Load Balancing Big Data Agile Python
+Act as if what you do makes a difference. It does. Great things never come from comfort zones. Artificial Intelligence Pull Request Quantum Computing Framework API
