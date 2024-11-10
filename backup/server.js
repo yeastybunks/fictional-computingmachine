@@ -8,3 +8,4 @@ Server Response Kafka Multi-threading Python Firewalls
 Success is how high you bounce when you hit bottom. Kafka Serverless Monitoring Deployment Success usually comes to those who are too busy to be looking for it. Event Sourcing
 Sharding Dream big and dare to fail. Optimization Great things never come from comfort zones. Cache Invalidation Automation Database Indexing
 Zero Downtime Deployment Microservices Innovation distinguishes between a leader and a follower. Do what you love and the money will follow. Cloud Functions Automation
+Opportunities don't happen. You create them. Logging DNS Routing Event-driven Architecture IoT Firewalls I find that the harder I work, the more luck I seem to have. Agile
