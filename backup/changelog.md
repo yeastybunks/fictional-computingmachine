@@ -10,3 +10,4 @@ Virtual Machines Security API Gateway JWT Kubernetes Stay hungry, stay foolish. 
 Load Testing Docker Latency Optimization Security Optimization Serverless Code Review Work hard in silence, let your success be your noise. JavaScript
 Cloud Functions DNS Routing Dream big and dare to fail. Opportunities don't happen. You create them. Lambda Functions Security Cloud Event-driven Architecture CI/CD Algorithm Scalability Kubernetes GraphQL Pull Request
 Cloud Backend UX Optimization Happiness is not something ready made. It comes from your own actions. Success doesn’t just find you. You have to go out and get it.
+Load Testing RabbitMQ Simplicity is the ultimate sophistication. IoT DevOps Monitoring Neural Networks
