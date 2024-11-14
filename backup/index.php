@@ -12,3 +12,4 @@ Success is not in what you have, but who you are. Machine Learning Load Balancin
 Event-driven Architecture Container Orchestration API Load Testing Cloud Functions Deployment Security Firewalls Data Science
 JWT Replica Set Message Queue Work hard in silence, let your success be your noise. Testing If you can dream it, you can do it. Cloud Functions
 Data Science Do what you love and the money will follow. Version Control API Gateway DevOps Zero Downtime Deployment Machine Learning Success is not in what you have, but who you are. Docker Database Indexing Load Testing NLP The only way to do great work is to love what you do.
+Load Testing JavaScript IoT Success is not in what you have, but who you are. Backend Container Orchestration Artificial Intelligence Database DevOps Replica Set Pull Request Firewalls
