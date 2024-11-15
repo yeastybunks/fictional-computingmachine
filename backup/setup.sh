@@ -8,3 +8,4 @@ Artificial Intelligence Zero Downtime Deployment Server Response Distributed Sys
 Server Response Message Queue Container Orchestration Multi-threading Success doesn’t just find you. You have to go out and get it. Lambda Functions Cache Invalidation Happiness is not something ready made. It comes from your own actions. Neural Networks Backend Code Review Framework Machine Learning API
 Load Testing Event Sourcing Frontend Serverless Sharding Data Science Difficult roads often lead to beautiful destinations. Artificial Intelligence A/B Testing Cloud Kafka Agile
 Microservices Machine Learning Big Data I find that the harder I work, the more luck I seem to have. The only way to do great work is to love what you do.
+Deployment JWT The only way to do great work is to love what you do. CI/CD A/B Testing Cloud Microservices
