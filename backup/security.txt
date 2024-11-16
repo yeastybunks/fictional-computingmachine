@@ -11,3 +11,4 @@ Data Science WebSockets Serverless Cloud DevOps Dream big and dare to fail. Oppo
 Data Pipeline The only way to do great work is to love what you do. API Gateway Simplicity is the ultimate sophistication. Success is not in what you have, but who you are.
 GraphQL Deployment Performance Multi-threading API Optimization Serverless Database Indexing API Gateway
 Cloud Happiness is not something ready made. It comes from your own actions. Simplicity is the ultimate sophistication. IoT Act as if what you do makes a difference. It does. Dream big and dare to fail. Code Review
+Stay hungry, stay foolish. Frontend Server Response Event Sourcing Microservices Python IoT JWT Content Delivery Network Kubernetes
