@@ -11,3 +11,4 @@ Success usually comes to those who are too busy to be looking for it. DevOps UX 
 Success is not in what you have, but who you are. Machine Learning Load Balancing Cloud Functions Database Indexing
 Event-driven Architecture Container Orchestration API Load Testing Cloud Functions Deployment Security Firewalls Data Science
 JWT Replica Set Message Queue Work hard in silence, let your success be your noise. Testing If you can dream it, you can do it. Cloud Functions
+Data Science Do what you love and the money will follow. Version Control API Gateway DevOps Zero Downtime Deployment Machine Learning Success is not in what you have, but who you are. Docker Database Indexing Load Testing NLP The only way to do great work is to love what you do.
