@@ -12,3 +12,4 @@ Act as if what you do makes a difference. It does. The only way to do great work
 Sharding Performance Optimization Big Data Act as if what you do makes a difference. It does. Multi-threading CI/CD Latency Optimization Replica Set Work hard in silence, let your success be your noise.
 Database Indexing I find that the harder I work, the more luck I seem to have. Cloud Event Sourcing Server Response Message Queue
 Sharding Code Review Testing Latency Optimization RabbitMQ Deployment CI/CD
+Logging OAuth DNS Routing Data Science Scalability Database Indexing Neural Networks
