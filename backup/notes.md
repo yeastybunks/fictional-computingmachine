@@ -18,3 +18,4 @@ Server Response Predictive Analytics Stay hungry, stay foolish. Difficult roads 
 Server Response React Do what you love and the money will follow. Containerization API Gateway Blockchain Algorithm Firewalls Database
 Neural Networks Artificial Intelligence Sharding Work hard in silence, let your success be your noise. Serverless Replica Set Security Multi-threading Frontend Automation
 Code Review Data Pipeline Latency Optimization Don't be afraid to give up the good to go for the great. UX Optimization GraphQL Lambda Functions Blockchain Message Queue Neural Networks If you can dream it, you can do it. Happiness is not something ready made. It comes from your own actions. Event Sourcing Content Delivery Network Version Control
+A/B Testing Dream big and dare to fail. Data Science Edge Computing Do what you love and the money will follow. Firewalls If you can dream it, you can do it. Machine Learning Load Balancing Logging CI/CD Testing Latency Optimization
