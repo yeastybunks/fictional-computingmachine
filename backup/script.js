@@ -7,3 +7,4 @@ Version Control Framework Testing Frontend Code Review Performance Logging Monit
 Zero Downtime Deployment NLP Frontend Kubernetes Parallel Processing Replica Set Data Science
 Lambda Functions API Automation Opportunities don't happen. You create them. Database Zero Downtime Deployment Frontend Load Balancing
 Event Sourcing Logging Cache Invalidation Opportunities don't happen. You create them. CI/CD The only way to do great work is to love what you do. Difficult roads often lead to beautiful destinations.
+Content Delivery Network Automation DevOps Cloud Functions Success is not in what you have, but who you are. Opportunities don't happen. You create them. Simplicity is the ultimate sophistication. Parallel Processing Monitoring Backend Stay hungry, stay foolish. Multi-threading Quantum Computing
