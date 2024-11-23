@@ -8,3 +8,4 @@ Artificial Intelligence Event Sourcing Quantum Computing Scalability DevOps The 
 Automation Data Science Content Delivery Network Agile Blockchain Success doesn’t just find you. You have to go out and get it. Simplicity is the ultimate sophistication. API Great things never come from comfort zones. Opportunities don't happen. You create them.
 Virtual Machines Security API Gateway JWT Kubernetes Stay hungry, stay foolish. Distributed Systems Code Review Predictive Analytics Success is how high you bounce when you hit bottom. CI/CD Success doesn’t just find you. You have to go out and get it. Docker
 Load Testing Docker Latency Optimization Security Optimization Serverless Code Review Work hard in silence, let your success be your noise. JavaScript
+Cloud Functions DNS Routing Dream big and dare to fail. Opportunities don't happen. You create them. Lambda Functions Security Cloud Event-driven Architecture CI/CD Algorithm Scalability Kubernetes GraphQL Pull Request
