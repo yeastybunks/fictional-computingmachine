@@ -5,3 +5,4 @@ Framework Success usually comes to those who are too busy to be looking for it. 
 GraphQL Logging OAuth Quantum Computing Containerization Agile RabbitMQ Security
 Parallel Processing Dream big and dare to fail. OAuth Simplicity is the ultimate sophistication. Success is not in what you have, but who you are. Framework IoT Containerization Opportunities don't happen. You create them. Lambda Functions Great things never come from comfort zones.
 Great things never come from comfort zones. Success doesn’t just find you. You have to go out and get it. JWT Predictive Analytics DevOps Data Science Message Queue Act as if what you do makes a difference. It does.
+Data Science Python Optimization Machine Learning Pull Request Success usually comes to those who are too busy to be looking for it. Cloud Stay hungry, stay foolish. Simplicity is the ultimate sophistication. Performance API Gateway Opportunities don't happen. You create them. Dream big and dare to fail.

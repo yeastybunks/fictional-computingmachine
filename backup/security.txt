@@ -9,3 +9,4 @@ Artificial Intelligence DNS Routing Virtual Machines Logging Opportunities don't
 API Gateway Don't be afraid to give up the good to go for the great. Monitoring Do what you love and the money will follow. Data Pipeline Sharding Optimization Docker Performance Firewalls Pull Request
 Data Science WebSockets Serverless Cloud DevOps Dream big and dare to fail. Opportunities don't happen. You create them. Success doesn’t just find you. You have to go out and get it. Stay hungry, stay foolish. RabbitMQ Framework To be the best, you must be able to handle the worst. Logging
 Data Pipeline The only way to do great work is to love what you do. API Gateway Simplicity is the ultimate sophistication. Success is not in what you have, but who you are.
+GraphQL Deployment Performance Multi-threading API Optimization Serverless Database Indexing API Gateway
