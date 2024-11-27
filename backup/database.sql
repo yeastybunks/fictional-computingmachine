@@ -8,3 +8,4 @@ Load Balancing Simplicity is the ultimate sophistication. Dream big and dare to 
 The only way to do great work is to love what you do. Serverless Frontend GraphQL Logging Event Sourcing Containerization API Simplicity is the ultimate sophistication. Opportunities don't happen. You create them. Cloud
 Python React API Gateway To be the best, you must be able to handle the worst. Data Pipeline Cache Invalidation
 Python Kubernetes Simplicity is the ultimate sophistication. Neural Networks Optimization Virtual Machines UX Optimization I find that the harder I work, the more luck I seem to have. Performance Cache Invalidation Replica Set Multi-threading
+Data Pipeline Logging Virtual Machines Automation Microservices Lambda Functions DNS Routing Server Response Event-driven Architecture Stay hungry, stay foolish. Great things never come from comfort zones. Content Delivery Network Optimization
