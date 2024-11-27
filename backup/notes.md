@@ -16,3 +16,4 @@ Deployment Server Response Simplicity is the ultimate sophistication. Cache Inva
 Dream big and dare to fail. Python Multi-threading Stay hungry, stay foolish. Automation
 Server Response Predictive Analytics Stay hungry, stay foolish. Difficult roads often lead to beautiful destinations. Success usually comes to those who are too busy to be looking for it. React
 Server Response React Do what you love and the money will follow. Containerization API Gateway Blockchain Algorithm Firewalls Database
+Neural Networks Artificial Intelligence Sharding Work hard in silence, let your success be your noise. Serverless Replica Set Security Multi-threading Frontend Automation
