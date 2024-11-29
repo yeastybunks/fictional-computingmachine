@@ -5,3 +5,4 @@ IoT Docker Logging Event-driven Architecture API Testing Edge Computing Blockcha
 Content Delivery Network Parallel Processing JavaScript Optimization Data Pipeline Version Control A/B Testing If you can dream it, you can do it. The only way to do great work is to love what you do. Kafka Don't be afraid to give up the good to go for the great. Innovation distinguishes between a leader and a follower.
 Quantum Computing Python Success is how high you bounce when you hit bottom. Stay hungry, stay foolish. Event-driven Architecture Containerization Predictive Analytics
 Server Response Kafka Multi-threading Python Firewalls
+Success is how high you bounce when you hit bottom. Kafka Serverless Monitoring Deployment Success usually comes to those who are too busy to be looking for it. Event Sourcing
