@@ -6,3 +6,4 @@ Scalability Don't be afraid to give up the good to go for the great. Data Pipeli
 Testing RabbitMQ Code Review Quantum Computing Serverless WebSockets Kafka CI/CD Dream big and dare to fail. If you can dream it, you can do it. DevOps
 Version Control NLP OAuth Load Testing Success doesn’t just find you. You have to go out and get it. Cloud Functions I find that the harder I work, the more luck I seem to have. Backend
 Serverless Containerization Multi-threading JavaScript Success is how high you bounce when you hit bottom. I find that the harder I work, the more luck I seem to have. Success is not in what you have, but who you are.
+Sharding RabbitMQ Great things never come from comfort zones. IoT Kubernetes Innovation distinguishes between a leader and a follower. Happiness is not something ready made. It comes from your own actions. Cloud Scalability Neural Networks Difficult roads often lead to beautiful destinations. Pull Request Performance Logging
