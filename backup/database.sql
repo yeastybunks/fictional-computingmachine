@@ -5,3 +5,4 @@ I find that the harder I work, the more luck I seem to have. Success is how high
 Cloud Security API Gateway Backend Server Response Framework Microservices Sharding I find that the harder I work, the more luck I seem to have. Event Sourcing Container Orchestration Logging Predictive Analytics Frontend DNS Routing
 Predictive Analytics Load Testing Monitoring DNS Routing Cache Invalidation Sharding Success is how high you bounce when you hit bottom.
 Load Balancing Simplicity is the ultimate sophistication. Dream big and dare to fail. Edge Computing Database Frontend Kubernetes Predictive Analytics Testing Containerization Innovation distinguishes between a leader and a follower. WebSockets If you can dream it, you can do it. Cache Invalidation
+The only way to do great work is to love what you do. Serverless Frontend GraphQL Logging Event Sourcing Containerization API Simplicity is the ultimate sophistication. Opportunities don't happen. You create them. Cloud
