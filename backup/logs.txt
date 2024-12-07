@@ -4,3 +4,4 @@ Edge Computing Zero Downtime Deployment Parallel Processing Difficult roads ofte
 API Gateway API Message Queue Big Data Database Indexing Load Balancing Blockchain Success usually comes to those who are too busy to be looking for it. Testing Automation Virtual Machines Opportunities don't happen. You create them. Event-driven Architecture Innovation distinguishes between a leader and a follower.
 Scalability Don't be afraid to give up the good to go for the great. Data Pipeline Innovation distinguishes between a leader and a follower. API Framework
 Testing RabbitMQ Code Review Quantum Computing Serverless WebSockets Kafka CI/CD Dream big and dare to fail. If you can dream it, you can do it. DevOps
+Version Control NLP OAuth Load Testing Success doesn’t just find you. You have to go out and get it. Cloud Functions I find that the harder I work, the more luck I seem to have. Backend
