@@ -13,3 +13,4 @@ Predictive Analytics Lambda Functions Agile Cloud WebSockets Blockchain React Sc
 Dream big and dare to fail. GraphQL Message Queue Cloud Functions Algorithm DevOps Stay hungry, stay foolish. Frontend Microservices Database Blockchain Simplicity is the ultimate sophistication. Testing Load Testing
 Kafka Zero Downtime Deployment API Success doesn’t just find you. You have to go out and get it. Deployment Monitoring RabbitMQ Distributed Systems Automation Cache Invalidation Docker
 Logging DevOps Server Response Blockchain Docker Data Science Distributed Systems Microservices Sharding
+Great things never come from comfort zones. Predictive Analytics A/B Testing I find that the harder I work, the more luck I seem to have. Load Testing Cloud Logging Happiness is not something ready made. It comes from your own actions. Multi-threading Success doesn’t just find you. You have to go out and get it. Containerization
