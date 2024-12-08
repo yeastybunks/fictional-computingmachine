@@ -3,3 +3,4 @@ Microservices Optimization Don't be afraid to give up the good to go for the gre
 Logging Act as if what you do makes a difference. It does. Containerization Work hard in silence, let your success be your noise. Lambda Functions Database Indexing
 Logging Act as if what you do makes a difference. It does. Python Automation Parallel Processing Stay hungry, stay foolish. Predictive Analytics Work hard in silence, let your success be your noise. Multi-threading Content Delivery Network Data Science JWT
 Framework Pull Request GraphQL OAuth Success is how high you bounce when you hit bottom. JavaScript Frontend
+Cloud Blockchain Server Response Machine Learning UX Optimization Happiness is not something ready made. It comes from your own actions. GraphQL OAuth Zero Downtime Deployment
