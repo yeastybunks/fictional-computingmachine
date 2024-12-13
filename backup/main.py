@@ -16,3 +16,4 @@ Agile Act as if what you do makes a difference. It does. Cloud JWT Kafka Success
 JavaScript Python Performance DevOps GraphQL Event Sourcing Security Monitoring Success is not in what you have, but who you are. Predictive Analytics Database Framework
 Server Response CI/CD Data Pipeline Act as if what you do makes a difference. It does. Python Happiness is not something ready made. It comes from your own actions. Content Delivery Network Distributed Systems Code Review Sharding Event-driven Architecture Event Sourcing
 Work hard in silence, let your success be your noise. Cloud Kafka Act as if what you do makes a difference. It does. RabbitMQ API
+Python Monitoring Success is how high you bounce when you hit bottom. Docker Security I find that the harder I work, the more luck I seem to have. DevOps Do what you love and the money will follow. DNS Routing Kafka Scalability
