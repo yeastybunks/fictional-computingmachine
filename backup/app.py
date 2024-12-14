@@ -6,3 +6,4 @@ DevOps Optimization To be the best, you must be able to handle the worst. Databa
 Version Control JWT API Predictive Analytics Code Review Content Delivery Network Success is not in what you have, but who you are. Lambda Functions Testing
 Innovation distinguishes between a leader and a follower. Machine Learning Cache Invalidation Kafka Parallel Processing Replica Set Optimization Load Testing Dream big and dare to fail. Serverless Pull Request
 Cloud Performance Opportunities don't happen. You create them. Quantum Computing Algorithm Predictive Analytics Data Pipeline API Gateway Framework Do what you love and the money will follow. I find that the harder I work, the more luck I seem to have. Security A/B Testing Cache Invalidation
+Neural Networks Success is how high you bounce when you hit bottom. Agile Framework OAuth Server Response
