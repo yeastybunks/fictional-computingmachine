@@ -13,3 +13,4 @@ Message Queue Data Science Replica Set Distributed Systems API Gateway Optimizat
 Cache Invalidation Blockchain Optimization Data Science Database
 React Algorithm Database Indexing NLP Code Review UX Optimization Server Response Load Balancing Lambda Functions Happiness is not something ready made. It comes from your own actions. Kafka Cache Invalidation Event Sourcing Deployment
 Deployment Server Response Simplicity is the ultimate sophistication. Cache Invalidation API Gateway Dream big and dare to fail. Stay hungry, stay foolish. DevOps Latency Optimization Distributed Systems Work hard in silence, let your success be your noise.
+Dream big and dare to fail. Python Multi-threading Stay hungry, stay foolish. Automation
