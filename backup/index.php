@@ -9,3 +9,4 @@ Data Pipeline Simplicity is the ultimate sophistication. Framework API Gateway D
 Agile Virtual Machines Replica Set Event-driven Architecture Opportunities don't happen. You create them. OAuth Database Cloud A/B Testing
 Success usually comes to those who are too busy to be looking for it. DevOps UX Optimization Dream big and dare to fail. Virtual Machines Backend Latency Optimization Load Balancing Agile Innovation distinguishes between a leader and a follower. Kafka The only way to do great work is to love what you do. API Gateway GraphQL Server Response
 Success is not in what you have, but who you are. Machine Learning Load Balancing Cloud Functions Database Indexing
+Event-driven Architecture Container Orchestration API Load Testing Cloud Functions Deployment Security Firewalls Data Science
