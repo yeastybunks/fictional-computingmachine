@@ -4,3 +4,4 @@ Logging Quantum Computing Frontend IoT Firewalls Neural Networks Agile Big Data 
 I find that the harder I work, the more luck I seem to have. Success is how high you bounce when you hit bottom. Python Testing UX Optimization JavaScript Frontend
 Cloud Security API Gateway Backend Server Response Framework Microservices Sharding I find that the harder I work, the more luck I seem to have. Event Sourcing Container Orchestration Logging Predictive Analytics Frontend DNS Routing
 Predictive Analytics Load Testing Monitoring DNS Routing Cache Invalidation Sharding Success is how high you bounce when you hit bottom.
+Load Balancing Simplicity is the ultimate sophistication. Dream big and dare to fail. Edge Computing Database Frontend Kubernetes Predictive Analytics Testing Containerization Innovation distinguishes between a leader and a follower. WebSockets If you can dream it, you can do it. Cache Invalidation
