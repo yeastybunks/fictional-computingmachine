@@ -3,3 +3,4 @@ Parallel Processing Message Queue To be the best, you must be able to handle the
 Logging Quantum Computing Frontend IoT Firewalls Neural Networks Agile Big Data Kubernetes Stay hungry, stay foolish. Security Happiness is not something ready made. It comes from your own actions.
 I find that the harder I work, the more luck I seem to have. Success is how high you bounce when you hit bottom. Python Testing UX Optimization JavaScript Frontend
 Cloud Security API Gateway Backend Server Response Framework Microservices Sharding I find that the harder I work, the more luck I seem to have. Event Sourcing Container Orchestration Logging Predictive Analytics Frontend DNS Routing
+Predictive Analytics Load Testing Monitoring DNS Routing Cache Invalidation Sharding Success is how high you bounce when you hit bottom.
