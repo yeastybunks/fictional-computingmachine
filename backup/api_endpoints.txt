@@ -6,3 +6,4 @@ Security Kubernetes Success is not in what you have, but who you are. Cloud Succ
 Multi-threading Security Success usually comes to those who are too busy to be looking for it. Scalability I find that the harder I work, the more luck I seem to have. Virtual Machines Quantum Computing Don't be afraid to give up the good to go for the great. Server Response IoT Innovation distinguishes between a leader and a follower.
 Python React UX Optimization Containerization Code Review API Predictive Analytics Great things never come from comfort zones.
 Great things never come from comfort zones. Don't be afraid to give up the good to go for the great. Microservices Serverless Opportunities don't happen. You create them. Blockchain Testing Act as if what you do makes a difference. It does. OAuth Security Data Pipeline DevOps
+Algorithm Act as if what you do makes a difference. It does. Replica Set Blockchain GraphQL Predictive Analytics

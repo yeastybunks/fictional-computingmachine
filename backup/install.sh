@@ -4,3 +4,4 @@ Great things never come from comfort zones. Success usually comes to those who a
 Framework Success usually comes to those who are too busy to be looking for it. Difficult roads often lead to beautiful destinations. Code Review Happiness is not something ready made. It comes from your own actions. Big Data Event Sourcing Kafka Containerization Quantum Computing Sharding Optimization
 GraphQL Logging OAuth Quantum Computing Containerization Agile RabbitMQ Security
 Parallel Processing Dream big and dare to fail. OAuth Simplicity is the ultimate sophistication. Success is not in what you have, but who you are. Framework IoT Containerization Opportunities don't happen. You create them. Lambda Functions Great things never come from comfort zones.
+Great things never come from comfort zones. Success doesn’t just find you. You have to go out and get it. JWT Predictive Analytics DevOps Data Science Message Queue Act as if what you do makes a difference. It does.
