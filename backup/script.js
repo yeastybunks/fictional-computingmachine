@@ -4,3 +4,4 @@ Event Sourcing GraphQL Cloud Functions Sharding Do what you love and the money w
 Algorithm IoT Security DevOps RabbitMQ Cloud Functions Parallel Processing Backend API
 Parallel Processing Simplicity is the ultimate sophistication. GraphQL NLP Difficult roads often lead to beautiful destinations.
 Version Control Framework Testing Frontend Code Review Performance Logging Monitoring Scalability
+Zero Downtime Deployment NLP Frontend Kubernetes Parallel Processing Replica Set Data Science
