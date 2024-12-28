@@ -5,3 +5,4 @@ Algorithm IoT Security DevOps RabbitMQ Cloud Functions Parallel Processing Backe
 Parallel Processing Simplicity is the ultimate sophistication. GraphQL NLP Difficult roads often lead to beautiful destinations.
 Version Control Framework Testing Frontend Code Review Performance Logging Monitoring Scalability
 Zero Downtime Deployment NLP Frontend Kubernetes Parallel Processing Replica Set Data Science
+Lambda Functions API Automation Opportunities don't happen. You create them. Database Zero Downtime Deployment Frontend Load Balancing
