@@ -5,3 +5,4 @@ Happiness is not something ready made. It comes from your own actions. Deploymen
 Kafka UX Optimization Server Response CI/CD Predictive Analytics
 Zero Downtime Deployment CI/CD Load Balancing Agile JavaScript Neural Networks Deployment Success is how high you bounce when you hit bottom. React Scalability Quantum Computing
 Artificial Intelligence Event Sourcing Quantum Computing Scalability DevOps The only way to do great work is to love what you do. Kubernetes Server Response Code Review Cloud Functions
+Automation Data Science Content Delivery Network Agile Blockchain Success doesn’t just find you. You have to go out and get it. Simplicity is the ultimate sophistication. API Great things never come from comfort zones. Opportunities don't happen. You create them.
