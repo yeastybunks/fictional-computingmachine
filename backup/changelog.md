@@ -4,3 +4,4 @@ Blockchain Server Response Do what you love and the money will follow. Lambda Fu
 Happiness is not something ready made. It comes from your own actions. Deployment Difficult roads often lead to beautiful destinations. Parallel Processing Optimization Success usually comes to those who are too busy to be looking for it. Innovation distinguishes between a leader and a follower. Data Pipeline Cloud Functions
 Kafka UX Optimization Server Response CI/CD Predictive Analytics
 Zero Downtime Deployment CI/CD Load Balancing Agile JavaScript Neural Networks Deployment Success is how high you bounce when you hit bottom. React Scalability Quantum Computing
+Artificial Intelligence Event Sourcing Quantum Computing Scalability DevOps The only way to do great work is to love what you do. Kubernetes Server Response Code Review Cloud Functions

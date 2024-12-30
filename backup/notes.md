@@ -9,3 +9,4 @@ GraphQL API API Gateway A/B Testing Multi-threading Predictive Analytics OAuth E
 Opportunities don't happen. You create them. Work hard in silence, let your success be your noise. Agile Lambda Functions Deployment DNS Routing Great things never come from comfort zones. Algorithm Database
 RabbitMQ Security Testing Docker Load Testing DNS Routing Algorithm Event Sourcing Neural Networks If you can dream it, you can do it. Framework Message Queue
 NLP Machine Learning JWT Pull Request Content Delivery Network To be the best, you must be able to handle the worst. Load Testing Quantum Computing Cloud Simplicity is the ultimate sophistication. Act as if what you do makes a difference. It does. Blockchain Multi-threading
+Message Queue Data Science Replica Set Distributed Systems API Gateway Optimization Dream big and dare to fail. Machine Learning Blockchain Quantum Computing Edge Computing
