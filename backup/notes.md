@@ -8,3 +8,4 @@ Success is not in what you have, but who you are. Parallel Processing Automation
 GraphQL API API Gateway A/B Testing Multi-threading Predictive Analytics OAuth Edge Computing Event Sourcing RabbitMQ Success is not in what you have, but who you are. Pull Request Firewalls
 Opportunities don't happen. You create them. Work hard in silence, let your success be your noise. Agile Lambda Functions Deployment DNS Routing Great things never come from comfort zones. Algorithm Database
 RabbitMQ Security Testing Docker Load Testing DNS Routing Algorithm Event Sourcing Neural Networks If you can dream it, you can do it. Framework Message Queue
+NLP Machine Learning JWT Pull Request Content Delivery Network To be the best, you must be able to handle the worst. Load Testing Quantum Computing Cloud Simplicity is the ultimate sophistication. Act as if what you do makes a difference. It does. Blockchain Multi-threading
