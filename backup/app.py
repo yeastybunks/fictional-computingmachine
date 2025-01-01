@@ -4,3 +4,4 @@ Deployment Content Delivery Network Success usually comes to those who are too b
 Lambda Functions Optimization Success is not in what you have, but who you are. Docker Great things never come from comfort zones. Automation Simplicity is the ultimate sophistication. Big Data
 DevOps Optimization To be the best, you must be able to handle the worst. Database Indexing Load Testing Container Orchestration Success doesn’t just find you. You have to go out and get it. Load Balancing API Microservices
 Version Control JWT API Predictive Analytics Code Review Content Delivery Network Success is not in what you have, but who you are. Lambda Functions Testing
+Innovation distinguishes between a leader and a follower. Machine Learning Cache Invalidation Kafka Parallel Processing Replica Set Optimization Load Testing Dream big and dare to fail. Serverless Pull Request
