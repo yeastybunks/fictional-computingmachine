@@ -3,3 +3,4 @@ Great things never come from comfort zones. Multi-threading Automation OAuth Don
 Event Sourcing GraphQL Cloud Functions Sharding Do what you love and the money will follow. To be the best, you must be able to handle the worst. Optimization
 Algorithm IoT Security DevOps RabbitMQ Cloud Functions Parallel Processing Backend API
 Parallel Processing Simplicity is the ultimate sophistication. GraphQL NLP Difficult roads often lead to beautiful destinations.
+Version Control Framework Testing Frontend Code Review Performance Logging Monitoring Scalability
