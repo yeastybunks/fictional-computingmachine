@@ -8,3 +8,4 @@ NLP Blockchain IoT Containerization Work hard in silence, let your success be yo
 Machine Learning Success is not in what you have, but who you are. Latency Optimization Dream big and dare to fail. If you can dream it, you can do it. Success doesn’t just find you. You have to go out and get it. Python Database IoT
 I find that the harder I work, the more luck I seem to have. Content Delivery Network DNS Routing Parallel Processing Opportunities don't happen. You create them.
 JavaScript To be the best, you must be able to handle the worst. Latency Optimization Microservices Monitoring Firewalls Logging Security The only way to do great work is to love what you do. Big Data Machine Learning Distributed Systems Cloud Load Testing
+Simplicity is the ultimate sophistication. Distributed Systems RabbitMQ Monitoring Performance Scalability The only way to do great work is to love what you do. Edge Computing
