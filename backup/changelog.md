@@ -2,3 +2,4 @@ Success usually comes to those who are too busy to be looking for it. Zero Downt
 OAuth Kubernetes Cloud Functions Message Queue Performance Monitoring IoT API Gateway Firewalls Optimization Artificial Intelligence Load Testing Scalability
 Blockchain Server Response Do what you love and the money will follow. Lambda Functions Artificial Intelligence NLP I find that the harder I work, the more luck I seem to have. Distributed Systems
 Happiness is not something ready made. It comes from your own actions. Deployment Difficult roads often lead to beautiful destinations. Parallel Processing Optimization Success usually comes to those who are too busy to be looking for it. Innovation distinguishes between a leader and a follower. Data Pipeline Cloud Functions
+Kafka UX Optimization Server Response CI/CD Predictive Analytics
