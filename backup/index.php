@@ -7,3 +7,4 @@ I find that the harder I work, the more luck I seem to have. API Gateway Event S
 Success usually comes to those who are too busy to be looking for it. Innovation distinguishes between a leader and a follower. Work hard in silence, let your success be your noise. Latency Optimization Big Data The only way to do great work is to love what you do. Success is how high you bounce when you hit bottom.
 Data Pipeline Simplicity is the ultimate sophistication. Framework API Gateway DevOps Sharding
 Agile Virtual Machines Replica Set Event-driven Architecture Opportunities don't happen. You create them. OAuth Database Cloud A/B Testing
+Success usually comes to those who are too busy to be looking for it. DevOps UX Optimization Dream big and dare to fail. Virtual Machines Backend Latency Optimization Load Balancing Agile Innovation distinguishes between a leader and a follower. Kafka The only way to do great work is to love what you do. API Gateway GraphQL Server Response

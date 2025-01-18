@@ -5,3 +5,4 @@ Data Pipeline Blockchain Pull Request Machine Learning Firewalls Database Indexi
 Containerization Event Sourcing Quantum Computing JWT IoT Success is not in what you have, but who you are. Message Queue Container Orchestration DNS Routing Blockchain Optimization Don't be afraid to give up the good to go for the great. GraphQL React
 Server Response Content Delivery Network Edge Computing Success doesn’t just find you. You have to go out and get it. Sharding Kafka Docker Scalability Agile Frontend Simplicity is the ultimate sophistication.
 Success is not in what you have, but who you are. Parallel Processing Automation Microservices Load Balancing Cloud Functions
+GraphQL API API Gateway A/B Testing Multi-threading Predictive Analytics OAuth Edge Computing Event Sourcing RabbitMQ Success is not in what you have, but who you are. Pull Request Firewalls
