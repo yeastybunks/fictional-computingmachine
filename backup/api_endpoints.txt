@@ -1,3 +1,4 @@
 Artificial Intelligence Agile I find that the harder I work, the more luck I seem to have. Data Pipeline Parallel Processing Load Testing Edge Computing Framework
 Optimization Automation Big Data Frontend Success usually comes to those who are too busy to be looking for it. API Latency Optimization Distributed Systems Deployment Algorithm Event-driven Architecture Happiness is not something ready made. It comes from your own actions. OAuth Backend
 Performance Code Review Multi-threading Load Balancing DNS Routing Lambda Functions Database Indexing React Great things never come from comfort zones. Distributed Systems Edge Computing RabbitMQ Don't be afraid to give up the good to go for the great. NLP Frontend
+Happiness is not something ready made. It comes from your own actions. Artificial Intelligence RabbitMQ Multi-threading Database Indexing
