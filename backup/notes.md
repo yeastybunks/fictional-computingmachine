@@ -1,1 +1,2 @@
 Sharding A/B Testing Neural Networks Cache Invalidation Logging Success doesn’t just find you. You have to go out and get it. Distributed Systems Do what you love and the money will follow. Performance UX Optimization
+Algorithm Kafka JavaScript Data Pipeline Pull Request Firewalls Great things never come from comfort zones. Microservices Optimization Act as if what you do makes a difference. It does. To be the best, you must be able to handle the worst. DNS Routing Event Sourcing Testing Load Testing
