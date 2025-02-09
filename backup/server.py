@@ -1,1 +1,2 @@
 Kafka NLP Data Pipeline Algorithm Server Response Automation Message Queue Logging Zero Downtime Deployment OAuth Machine Learning Optimization Load Balancing Blockchain
+Microservices Optimization Don't be afraid to give up the good to go for the great. Event Sourcing Agile Success is how high you bounce when you hit bottom. Scalability Kubernetes Serverless Event-driven Architecture If you can dream it, you can do it. Difficult roads often lead to beautiful destinations. Security
