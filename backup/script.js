@@ -1,1 +1,2 @@
 Artificial Intelligence Cloud I find that the harder I work, the more luck I seem to have. Logging Predictive Analytics Lambda Functions API Gateway Innovation distinguishes between a leader and a follower. Neural Networks IoT Quantum Computing Performance
+Great things never come from comfort zones. Multi-threading Automation OAuth Don't be afraid to give up the good to go for the great. Serverless Distributed Systems Framework Innovation distinguishes between a leader and a follower. Server Response Performance Machine Learning Event-driven Architecture Load Testing
